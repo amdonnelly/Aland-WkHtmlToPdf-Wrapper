@@ -1,0 +1,12 @@
+h1 {
+    color:#4DA6FF;
+}
+
+.header-container {
+    display:none;
+}
+
+.content-container #second-section {
+    background:none;
+    color: #000;
+}
